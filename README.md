@@ -1,4 +1,4 @@
-![] (text.gif)
+![](text.gif)
 
 # Module Project: Composing Stateful Logic - Dark Mode
 
