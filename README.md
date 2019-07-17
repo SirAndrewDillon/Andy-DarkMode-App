@@ -1,6 +1,6 @@
 ![](text.gif)
 
-![(krypt.gif)]
+![](krypt.gif)]
 
 # Module Project: Composing Stateful Logic - Dark Mode
 
