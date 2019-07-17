@@ -7,7 +7,7 @@
 A custom [React Hook] (https://reactjs.org/docs/hooks-overview.html) to help you implement a "dark mode" component for your application.
 The user setting persists to `localStorage`.
 
-❤️ it? ⭐️ it on [GitHub](https://github.com/SirAndrewDillon/Andy-DarkMode-App/blob/andy-dillon/)
+❤️ it? ⭐️ it on [![GitHub](https://github.com/SirAndrewDillon/Andy-DarkMode-App/blob/andy-dillon/)
 or [Tweet](https://twitter.com/) about it.
 
 [![npm version](https://badge.fury.io/js/use-dark-mode.svg)](https://badge.fury.io/js/use-dark-mode) [![Build Status](https://travis-ci.com/donavon/use-dark-mode.svg?branch=master)](https://travis-ci.com/donavon/use-dark-mode) [![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors)
