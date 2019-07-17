@@ -1,6 +1,6 @@
 ![](text.gif)
 
-![](krypt.gif)]
+![](krypt.gif)
 
 # Use Dark Mode
 
